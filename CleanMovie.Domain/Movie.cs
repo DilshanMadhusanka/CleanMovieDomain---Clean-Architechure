@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 // Me project eke first layer eka CleanMovie.Domain
 // second layer eka CleanMovieApplication 
 // third layer eka CleanMovieInfrascture
-
+// API is depend on Application layer
 
 // mewa  ekin ekat link wela thiyenne 
 // domain =>  application => infranscture
