@@ -21,6 +21,6 @@ namespace CleanMovie.Domain
     {
         public int Id { get; set; }
         public string Name { get; set; } = string.Empty;
-        public string Cost { get; set; } 
+        public int Cost { get; set; } 
     }
 }

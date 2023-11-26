@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace CleanMovieApplication
 {
-
+    // interface hadannne inherit karla ganna class ( normaly interface wala hadanne parent class ekak )
 
     // this is use case 
     public interface IMovieServices
