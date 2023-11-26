@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Domain", "CleanMovie.Domain\CleanMovie.Domain.csproj", "{6BBEFD52-6512-4E26-9544-C278C39CC732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanMovie.Domain", "CleanMovie.Domain\CleanMovie.Domain.csproj", "{6BBEFD52-6512-4E26-9544-C278C39CC732}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovieApplication", "CleanMovieApplication\CleanMovieApplication.csproj", "{FA24E393-9A16-4228-BB3A-AE46D9EF2ED6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CleanMovieApplication", "CleanMovieApplication\CleanMovieApplication.csproj", "{FA24E393-9A16-4228-BB3A-AE46D9EF2ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleanMovie.Infrascture", "CleanMovie.Infrascture\CleanMovie.Infrascture.csproj", "{A2998559-0313-4760-9BAD-52E19235C136}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{FA24E393-9A16-4228-BB3A-AE46D9EF2ED6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FA24E393-9A16-4228-BB3A-AE46D9EF2ED6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FA24E393-9A16-4228-BB3A-AE46D9EF2ED6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2998559-0313-4760-9BAD-52E19235C136}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2998559-0313-4760-9BAD-52E19235C136}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2998559-0313-4760-9BAD-52E19235C136}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2998559-0313-4760-9BAD-52E19235C136}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

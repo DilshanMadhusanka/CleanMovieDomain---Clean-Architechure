@@ -5,6 +5,16 @@ using System.Reflection.Metadata;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// Me project eke first layer eka CleanMovie.Domain
+// second layer eka CleanMovieApplication 
+// third layer eka CleanMovieInfrascture
+
+
+// mewa  ekin ekat link wela thiyenne 
+// domain =>  application => infranscture
+
+
 namespace CleanMovie.Domain
 {
     public class Movie
